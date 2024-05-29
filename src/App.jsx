@@ -5,3 +5,5 @@ function App(){
     <Kalkulator/>
   )
 }
+
+export default App;
